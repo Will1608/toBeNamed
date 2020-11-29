@@ -29,9 +29,9 @@ jobs:
         python -m pip install green
         python -m pip install --pre black
         python -m pip install -r requirements.txt
-    - name: Lint with flake8
+    - name: Lint with black
       run: |
-        black. --check
+        black . --check
     - name: Test with pytest
       run: |
         green tests
