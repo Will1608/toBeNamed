@@ -1,0 +1,5 @@
+colorama==0.4.4
+coverage==5.3
+green==3.2.5
+lxml==4.6.2
+Unidecode==1.1.1
