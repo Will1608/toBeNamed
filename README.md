@@ -1,3 +1,3 @@
 # toBeNamed
 
-Tensorflow, API, Django
+Tensorflow, API, Django, Python Design Patterns
