@@ -16,7 +16,7 @@ APIs:
 
 Web Development:
 
-* [Web development in 2020 roadmap]https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020
+* [Web development in 2020 roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
 
 linting:
 Black
